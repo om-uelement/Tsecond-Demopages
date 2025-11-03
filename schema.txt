@@ -1,0 +1,32 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "BreadcrumbList", 
+  "itemListElement": [{
+    "@type": "ListItem", 
+    "position": 1, 
+    "name": "Products",
+    "item": "https://tsecond.ai/products/"  
+  },{
+    "@type": "ListItem", 
+    "position": 2, 
+    "name": "Industries",
+    "item": "https://tsecond.ai/industries/"  
+  },{
+    "@type": "ListItem", 
+    "position": 3, 
+    "name": "Solutions",
+    "item": "https://tsecond.ai/solutions/"  
+  },{
+    "@type": "ListItem", 
+    "position": 4, 
+    "name": "About Us",
+    "item": "https://tsecond.ai/about-us"  
+  },{
+    "@type": "ListItem", 
+    "position": 5, 
+    "name": "Contact",
+    "item": "https://tsecond.ai/contact"  
+  }]
+}
+</script>
